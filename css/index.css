@@ -10,10 +10,10 @@ html {
   }
 }
 #allwarp {
-  width: 100%;
+  width: 19.2rem;
   height: 14rem;
   background: url('../img/index-bg.png') no-repeat top center;
-  background-size: cover;
+  background-size: 19.2rem;
 }
 #allwarp .all {
   height: 100%;
@@ -220,7 +220,7 @@ html {
 }
 footer {
   position: relative;
-  width: 100%;
+  width: 19.2rem;
   height: 2.2rem;
   background-color: #fff;
   background: url('../unpload/footer-bg.png') no-repeat center;
