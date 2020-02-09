@@ -1,7 +1,5 @@
-@media screen and (min-width: 1201px) and (max-width: 1920px) {
-  html {
-    font-size: 100px;
-  }
+html {
+  font-size: 100px;
 }
 @keyframes rotat {
   0% {
